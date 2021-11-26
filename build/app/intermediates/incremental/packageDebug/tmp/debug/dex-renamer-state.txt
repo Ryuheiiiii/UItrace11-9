@@ -1,0 +1,4 @@
+#Fri Nov 26 16:05:48 JST 2021
+base.0=/Users/ryuhei/StudioProjects/untitled8/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
